@@ -28,4 +28,6 @@ The Receiver Operating Characteristic (ROC) curve shows how our Logistic Regress
 Having in mind that our recall was better in the Logistic Regression baseline model.
      
 ![Comparing RUC curve for Basline M and DT](https://github.com/gloriapintado/Diabetes_Prediction/blob/main/Images/Comparing%20RUC%20curve%20for%20Basline%20M%20and%20DT.png)
+
+As we can see Logistic Regression was better than Decision Tree. Our next step will be tuning our hyperparameter in our Logistic Regression Model to see if it can change for better. Not doing the hyperparameter tuning in our decision tree since it did a lot worse.
      
