@@ -31,3 +31,4 @@ Having in mind that our recall was better in the Logistic Regression baseline mo
 
 As we can see Logistic Regression was better than Decision Tree. Our next step will be tuning our hyperparameter in our Logistic Regression Model to see if it can change for better. Not doing the hyperparameter tuning in our decision tree since it did a lot worse.
      
+## Tuning Hyperparameters for our Logistic Regression Baseline Model
