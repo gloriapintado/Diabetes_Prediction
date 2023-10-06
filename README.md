@@ -32,3 +32,28 @@ Having in mind that our recall was better in the Logistic Regression baseline mo
 As we can see Logistic Regression was better than Decision Tree. Our next step will be tuning our hyperparameter in our Logistic Regression Model to see if it can change for better. Not doing the hyperparameter tuning in our decision tree since it did a lot worse.
      
 ## Tuning Hyperparameters for our Logistic Regression Baseline Model
+
+![Tuning](https://github.com/gloriapintado/Diabetes_Prediction/blob/main/Images/Tunning%20Hyperparameters.png)
+
+Tuning our Baseline model with the Penalties, C's, and Solvers did not have a significant impact in our model's performance.
+
+## Features Importance
+
+![Features Importance](https://github.com/gloriapintado/Diabetes_Prediction/blob/main/Images/Features%20Importance.png)
+
+## Recommendations
+
+- Our top ten features that should be more aware to not be at risk of having prediabetes or diabetes are GenHlth, High BP, BMI, HighChol, Age, DiffWalk, Income, PhysHlth, HeartDiseaseorAttack.
+- Promote knowledge about diabetes in promotion and prevention campaigns, providing the information necessary to recognize the disease (education and income).
+- Create new strategies to dissolve a sedentary lifestyle and promote new healthy habits (DiffWalk, PhysHealth).
+- Do medical campaigns where they carry out checkups, such as taking blood pressure, and laboratory tests to know the cholesterol levels in the blood. Consult with nutritionists to change your diet since each person is different and must follow a special diet and know their body mass index (High BP, BMI, and high cholesterol).
+- Mostly aimed at people between the ages of 35 and 40 who are the most prone to having this disease (age).
+
+## Next Steps
+
+- Look for outliers since logistic regression is sensitive to outliers in the dataset
+- Try to find a better model that works best with this dataset.
+- Try new learning machine models.
+
+
+
