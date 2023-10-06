@@ -14,3 +14,15 @@ What are some of the highest indicator that shows to have more possibilities of 
   Where :\
     **0 is for no diabetes**\
     **1 is for prediabetes or diabetes**
+
+## Modeling
+Chosen our **Logistic Regression** as our baseline model. Having 2421 false negatives meaning we have to decrease it, for decreasing false negatives we need to used the recall metric.
+
+![LR Baseline model CM](https://github.com/serbinaekaterinai/Wincor_Churn_analysis/blob/main/images%20readme/Screenshot%202023-10-04%20at%201.59.35%20PM.png)
+
+
+   - **Decision Trees**: Our Decision Tree had a recall of 0.54, lower than the Logistic Regression. Decision tree looks quite complex- indication overfitting.
+
+     
+
+     
