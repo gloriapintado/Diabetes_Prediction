@@ -1,4 +1,4 @@
-# Diabetes_Prediction
+# Diabetes Prediction
 ### By [Gloria Pintado](https://github.com/gloriapintado)
 
 For Better Health is a new organization and is recruiting members. I have been hired by this nonprofit organization that wants to help communities far from cities that need medical support.
