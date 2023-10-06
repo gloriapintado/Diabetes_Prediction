@@ -10,7 +10,7 @@ What are some of the highest indicator that shows to have more possibilities of 
 - Diabetes Health Indicator Dataset from Kaggle
 - It contains 70692 rows and 22 columns (features).
 - It is a balanced dataset.
-- Our target variable is the diabetes binary.
-    Where :
-    **0 is for no diabetes**
+- Our target variable is the diabetes binary. \
+  Where :\
+    **0 is for no diabetes**\
     **1 is for prediabetes or diabetes**
